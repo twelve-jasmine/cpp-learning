@@ -1,4 +1,4 @@
-//600!ÄÜ±»9µÄ×î¸ß¶àÉÙ´Î·½Õû³ı
+//600!èƒ½è¢«9çš„æœ€é«˜å¤šå°‘æ¬¡æ–¹æ•´é™¤
 #include <iostream>
 using namespace std;
 int main()

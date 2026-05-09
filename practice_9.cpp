@@ -1,4 +1,4 @@
-//1Ԫ����Ҳ�ֳ�1�֡�2�֡�5�ֵķ�������
+//1元人民币拆分成1分、2分、5分的方法总数
 #include <iostream>
 using namespace std;
 int main()

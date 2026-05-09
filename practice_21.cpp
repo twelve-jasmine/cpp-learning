@@ -1,4 +1,4 @@
-//通过函数将整数数组逆序
+//閫氳繃鍑芥暟灏嗘暣鏁版暟缁勯�嗗簭
 #include <iostream>
 #include <vector>
 using namespace std;

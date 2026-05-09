@@ -1,4 +1,4 @@
-//JosephusÎÊÌâ
+//Josephusé—®é¢˜
 #include <iostream>
 using namespace std;
 
@@ -9,9 +9,9 @@ typedef struct Node {
 
 int main()
 {
-	int num, m;            //numÎª×ÜÈËÊı£¬mÎªÖ¸¶¨Êı
-	int i, j = 0;              //i£¬jÓÃÀ´Ñ­»·
-	int sum = 0;           //sumÎªÌÔÌ­µÄÈËÊı
+	int num, m;            //numä¸ºæ€»äººæ•°ï¼Œmä¸ºæŒ‡å®šæ•°
+	int i, j = 0;              //iï¼Œjç”¨æ¥å¾ªç¯
+	int sum = 0;           //sumä¸ºæ·˜æ±°çš„äººæ•°
 	cin >> num >> m;
 	lpNode head = new Node;
 	lpNode cur = head;
@@ -29,7 +29,7 @@ int main()
 			j++;
 		}
 		if (j % m == 0 && cur->n != 0) {
-			cout << cur->n << "ºÅÌÔÌ­" << endl;
+			cout << cur->n << "å·æ·˜æ±°" << endl;
 			cur->n = 0;
 			sum++;
 		}
@@ -38,7 +38,7 @@ int main()
 	while (cur->n == 0) {
 		cur = cur->next;
 	}
-	cout << cur->n << "ºÅ»ñÊ¤" << endl;
+	cout << cur->n << "å·è·èƒœ" << endl;
 
 	cur = head->next;
 	lpNode next = nullptr;

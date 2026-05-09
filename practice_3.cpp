@@ -1,4 +1,4 @@
-//找出所有的三位数的水仙花数
+//鎵惧嚭鎵�鏈夌殑涓変綅鏁扮殑姘翠粰鑺辨暟
 #include <iostream>
 using namespace std;
 int main()

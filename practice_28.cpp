@@ -1,4 +1,4 @@
-//¼ÆËã¦ÐµÄ½üËÆÖµ
+//è®¡ç®—Ï€çš„è¿‘ä¼¼å€¼
 #include <iostream>
 using namespace std;
 #define eps 1e-6

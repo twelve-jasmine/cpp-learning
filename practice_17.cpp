@@ -1,4 +1,4 @@
-//ÊäÈëÈý¸ö×Ö·û´®£¬½«ËüÃÇ°´´ÓÐ¡µ½´óµÄË³ÐòÅÅÁÐÊä³ö
+//è¾“å…¥ä¸‰ä¸ªå­—ç¬¦ä¸²ï¼Œå°†å®ƒä»¬æŒ‰ä»Žå°åˆ°å¤§çš„é¡ºåºæŽ’åˆ—è¾“å‡º
 #include <iostream>
 #include <string>
 using namespace std;
@@ -8,17 +8,17 @@ int main()
 	getline(cin, a);
 	getline(cin, b);
 	getline(cin, c);
-	if (a > b) {
+	if (a.length() > b.length()) {
 		temp = a;
 		a = b;
 		b = temp;
 	}
-	if (a > c) {
+	if (a.length() > c.length()) {
 		temp = a;
 		a = c;
 		c = temp;
 	}
-	if (b > c) {
+	if (b.length() > c.length()) {
 		temp = b;
 		b = c;
 		c = temp;

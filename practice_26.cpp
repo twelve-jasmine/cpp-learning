@@ -1,4 +1,4 @@
-//����10λ��ί�Ĵ�֣�������ֵ����Сֵ��ƽ����
+//输入10位评委的打分，求出最大值、最小值、平均分
 #include <iostream>
 using namespace std;
 int main()

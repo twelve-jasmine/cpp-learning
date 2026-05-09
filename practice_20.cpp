@@ -1,4 +1,4 @@
-//用辗转相除法求两个数的最大公因数
+//鐢ㄨ緱杞浉闄ゆ硶姹備袱涓暟鐨勬渶澶у叕鍥犳暟
 #include <iostream>
 using namespace std;
 int gcd(int a, int b);

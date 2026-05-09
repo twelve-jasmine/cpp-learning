@@ -1,4 +1,4 @@
-//对百分制成绩进行评级
+//瀵圭櫨鍒嗗埗鎴愮哗杩涜璇勭骇
 #include <iostream>
 using namespace std;
 int main()

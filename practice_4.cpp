@@ -1,4 +1,4 @@
-//����30��ѧ����5�ſγ̳ɼ������ÿ��ѧ����ƽ���ɼ�
+//输入30名学生的5门课程成绩，输出每名学生的平均成绩
 #include <iostream>
 using namespace std;
 int main()

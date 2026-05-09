@@ -1,4 +1,4 @@
-//·ÖÌÇ¹ûÎÊÌâ
+//åˆ†ç³–æœé—®é¢˜
 #include <iostream>
 using namespace std;
 int AllEqual(int a[]);
@@ -6,8 +6,8 @@ void supply(int a[]);
 void exchange(int a[]);
 int main()
 {
-	int a[10] = { 0 };       //¼ÇÂ¼Ã¿¸öÈËµÄÌÇ¹û
-	int count = 0;                 //¼ÇÂ¼µ÷Õû´ÎÊı
+	int a[10] = { 0 };       //è®°å½•æ¯ä¸ªäººçš„ç³–æœ
+	int count = 0;                 //è®°å½•è°ƒæ•´æ¬¡æ•°
 	int i;
 	for (i = 0; i < 10; i++) {
 		cin >> a[i];

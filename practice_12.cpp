@@ -1,4 +1,4 @@
-//ÇóÒ»Ôª¶þ´Î·½³ÌµÄ¸ù
+//æ±‚ä¸€å…ƒäºŒæ¬¡æ–¹ç¨‹çš„å®žæ•°æ ¹
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -13,7 +13,7 @@ int main()
 		cout << x1 << endl << x2 << endl;
 	}
 	else {
-		cout << "ÎÞÊµÊý¸ù" << endl;
+		cout << "è¯¥æ–¹ç¨‹æ— å®žæ•°æ ¹" << endl;
 	}
 
 	return 0;

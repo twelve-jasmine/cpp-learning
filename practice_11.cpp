@@ -1,4 +1,4 @@
-//求解任意三角形的面积
+//姹傝В浠绘剰涓夎褰㈢殑闈㈢Н
 #include <iostream>
 #include <cmath>
 using namespace std;

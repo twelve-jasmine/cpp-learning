@@ -1,4 +1,4 @@
-//ÇóÈÎÒâÊıµÄÄæĞòÊı
+//æ±‚ä»»æ„æ•°çš„é€†åºæ•°
 #include <iostream>
 #include <cmath>
 using namespace std;

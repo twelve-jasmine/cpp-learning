@@ -1,3 +1,4 @@
+//将三个数按照从小到大排序
 #include <iostream>
 using namespace std;
 

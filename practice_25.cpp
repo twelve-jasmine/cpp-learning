@@ -1,4 +1,4 @@
-//输出Fibonacci数列前二十项
+//杈撳嚭Fibonacci鏁板垪鍓嶄簩鍗侀」
 #include <iostream>
 using namespace std;
 int main()
